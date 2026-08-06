@@ -7,6 +7,9 @@ This repository showcases practical projects I completed while studying cybersec
 ## Areas Covered
 
 - Python Automation
+- Basic Web Development
+- Systems Architecture
+- Hashing
 - Digital Forensics
 - Networking
 - Linux
