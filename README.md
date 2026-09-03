@@ -7,17 +7,14 @@ This repository showcases practical projects I completed while studying cybersec
 ## Areas Covered
 
 - Python Automation
-- Basic Web Development
-- Systems Architecture
-- Hashing
-- Digital Forensics
-- Networking
-- Linux
 - SQL & Databases
+- Linux
+- Digital Forensics
 - Penetration Testing
+- Server Hardening
 - Vulnerability Assessments
 - Incident Response
-- Server Hardening
+- Web Development
 
 ## About Me
 
@@ -26,4 +23,5 @@ I recently completed a Cyber Security Bootcamp and created this portfolio to dem
 My goal is to continue expanding this portfolio while pursuing opportunities in cybersecurity.
 
 ---
+
 **More projects will be added regularly.**
