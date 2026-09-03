@@ -39,4 +39,6 @@ The Apache installation and configuration files were located under:
 ```text
 C:\Apache24\
 
+---
+
 **Author:** Niyaaz Dawjee
