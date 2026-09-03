@@ -71,9 +71,8 @@ Assessment evidence is stored in the `Assessment-Evidence` directory.
 The evidence includes:
 
 - `Penetration-Testing-Assessment.pdf`
-- `penetration_testing.pdf`
 
-`Penetration-Testing-Assessment.pdf` contains the documented assessment findings and supporting screenshots. :contentReference[oaicite:0]{index=0}
+`Penetration-Testing-Assessment.pdf` contains the documented assessment findings and supporting screenshots. 
 
 ---
 
